@@ -20,7 +20,7 @@
 
 </div>
  
-<div align="center"> 
+<!--<div align="center"> 
   <a href="mailto:yourmail@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -30,7 +30,7 @@
   <a href="https://yourportfolio.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-</div>
+</div>-->
 
 <hr/>
 
