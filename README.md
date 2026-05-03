@@ -44,8 +44,8 @@
 <br/>
 <hr/>
 
-<--
-<hr/>
+
+<--<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -54,8 +54,8 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=MrY3D&show_icons=true&theme=react&border_radius=10" />
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrY3D&layout=compact&theme=react&border_radius=10" />
-</div>
--->
+</div>-->
+
 <br/><br/>
 
 <hr/>
