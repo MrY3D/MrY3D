@@ -44,12 +44,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  <br>
-  <img alt="snake" src="https://raw.githubusercontent.com/MrY3D/MrY3D/output/github-contribution-grid-snake.svg" />
-</div>
-
+<--
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -60,7 +55,7 @@
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrY3D&layout=compact&theme=react&border_radius=10" />
 </div>
-
+-->
 <br/><br/>
 
 <hr/>
