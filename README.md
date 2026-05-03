@@ -61,7 +61,7 @@
 <hr/>
 
 <div align="center">
-<a href='ko-fi.com/xy3d00' target='_blank'>
+<a href='https://ko-fi.com/xy3d00' target='_blank'>
 <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' />
 </a>
 </div>
